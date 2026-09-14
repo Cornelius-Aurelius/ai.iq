@@ -1,0 +1,22 @@
+{
+  "name": "AI.IQ \u2014 Social Media Growth Intelligence",
+  "short_name": "AI.IQ",
+  "description": "Use your own social media, ads and Google data to discover what works and create better content.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#05070b",
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
